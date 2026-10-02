@@ -63,7 +63,7 @@ The refreshed charts and the report content are combined into a single PDF.
 
 The PDF is generated automatically using the latest monthly data, so there is no manual copy-paste or formatting work.
 
-Sample report below uses illustrative data.
+Sample report assembly below uses illustrative data.
 <img width="1654" height="1111" alt="sample_report_assembly" src="https://github.com/user-attachments/assets/00d237d4-fd95-492c-b99e-bd3ae29b43eb" />
 
 ### 4. Automated email
